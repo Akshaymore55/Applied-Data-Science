@@ -1,7 +1,7 @@
 # Applied-Data-Science
 ## The project I performed are basics to IBM DATA SCIENCE DOMAIN
  
- This project are performed in IBM Waston Studio.
+ This project are performed in IBM Waston Studio and Skill Networks Lab.
 
 ## The Project which I have worked on are:
 
