@@ -15,3 +15,5 @@
 
 ***5.EDA SQL Assigment.***
 
+***6.Analyzing US Stock.***
+
