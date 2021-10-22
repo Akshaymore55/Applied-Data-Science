@@ -2,3 +2,7 @@
 #The project I performed are basics to IBM DATA SCIENCE DOMAIN
 This project are performed in IBM Waston Studio.
 
+#The Project which I have worked on are:
+1.The US Domestic Flight Assigment.
+2.The Best Classifier Machine Learning Project.
+3.The EDA 
